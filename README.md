@@ -5,3 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishGoroglu0)](https://github.com/AlishGoroglu0/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishGoroglu0&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishGoroglu0&layout=donut)](https://github.com/AlishGoroglu0/github-readme-stats)
