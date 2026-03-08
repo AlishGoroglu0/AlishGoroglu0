@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlishGoroglu0&theme=radical" alt="Profile Summary" width="60%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlishGoroglu0&theme=radical" alt="Profile Summary" width="60%" />
+</p>
