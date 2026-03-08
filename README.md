@@ -1,10 +1,19 @@
-<h1 align="center">HELLO IT's Alish Goroglu</h1>
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Self+Learning+Developer+Candidate;React+%26+Vite+ile+oyun+ve+app+geliştiriyorum;Dart+ile+algoritma+çözüyorum;Node.js+öğreniyorum;Hell+Girl+fan+page+klonladım+%F0%9F%98%88" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlishGoroglu0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="AlishGoroglu0's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishGoroglu0&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alish-goroglu-3b6247381/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <!-- Diğer sosyal medya linkleri -->
+  <i>Eğer kartlar görünmüyorsa (rate limit nedeniyle), birkaç dakika sonra yenile veya kendi Vercel instance'ını deploy et! 🚀</i><br>
+  <small>Self Learning Developer Candidate • 100+ contributions son 1 yılda • React, Dart, Node.js öğreniyorum</small>
 </p>
+
+<!-- Alternatif fallback stats servisleri (daha stabil olanlar) -->
+<!-- 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlishGoroglu0&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlishGoroglu0&theme=radical" alt="Profile Summary" width="48%" />
+</p>
+-->
