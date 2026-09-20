@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=450&lines=AI+Assisted+Software+Developer;Building+clean+%26+modern+applications;Always+learning+new+technologies" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=36BCF7&center=true&width=450&lines=Self+learning;Testing;Developing;Reaching+highest+of+all+the+havens" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=36BCF7&center=true&width=350&lines=Self+learning;Testing;Developing;Reaching+highest+of+all+the+havens" alt="Typing SVG" />
 </p>
 
 ---
