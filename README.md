@@ -40,7 +40,6 @@ I build a small project every week to keep learning and experimenting with new t
 | Project | Duration | Stack |
 |---|---|---|
 | [todo-app](https://github.com/AlishGoroglu0/todo-app) | 1 day | React, Vite |
-| [Salik_sistemi](https://github.com/AlishGoroglu0/Salik_sistemi) | 2.5 days | JavaScript |
 | [RayLib-Game](https://github.com/AlishGoroglu0/RayLib-Game) | 5 days | C++, Raylib |
 | [Product-management-backend](https://github.com/AlishGoroglu0/Product-management-backend-Practice-Node.js) | 3-4 days | Node.js, SQLite |
 
