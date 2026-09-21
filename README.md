@@ -26,15 +26,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-
-<br>
-
 <img src="https://img.shields.io/badge/Web_Development-36BCF7?style=for-the-badge" alt="Web" />
 <img src="https://img.shields.io/badge/Desktop_Software-00599C?style=for-the-badge" alt="Desktop" />
 <img src="https://img.shields.io/badge/Mobile_Builds-239120?style=for-the-badge" alt="Mobile" />
