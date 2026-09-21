@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+clean+%26+modern+applications;Web+%E2%80%A2+Desktop+%E2%80%A2+Systems;Shipping+a+new+project+every+week;Learning+by+dissecting+the+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+clean+%26+modern+applications;Web+%E2%80%A2+Desktop+%E2%80%A2+Mobile+%E2%80%A2+Systems;Shipping+a+new+project+every+week;Learning+by+dissecting+the+code" alt="Typing SVG" />
 
 <br>
 
@@ -13,6 +13,7 @@
 
 <br><br>
 
+<a href="https://alishgoroglu0.github.io/Agno-Hesaplama-Uygulamasi/"><img src="https://img.shields.io/badge/🎓_AGNO_Calculator-Live-02569B?style=for-the-badge" /></a>
 <a href="https://alishgoroglu0.github.io/todo-app/"><img src="https://img.shields.io/badge/🖊️_Todo_App-Live-36BCF7?style=for-the-badge" /></a>
 <a href="https://alishgoroglu0.github.io/RayLib-Game/"><img src="https://img.shields.io/badge/🎮_Raylib_Game-Play_in_browser-8A2BE2?style=for-the-badge" /></a>
 <a href="https://alishgoroglu0.github.io/Hell-Girl-Fan-Page/"><img src="https://img.shields.io/badge/🔥_Hell_Girl-Live-B22222?style=for-the-badge" /></a>
@@ -31,9 +32,9 @@
 ```javascript
 const alish = {
   role:       "Self-taught Software Developer",
-  focus:      ["Web", "Desktop", "Systems"],
+  focus:      ["Web", "Desktop", "Mobile", "Systems"],
   workflow:   "Pair with AI → dissect the code → master it",
-  rhythm:     "One practice project per week",
+  rhythm:     "Weekly practice + monthly deep-dive projects",
   currently:  "Exploring new stacks & shipping small tools",
   motto:      "Self-learning. Testing. Developing.",
 };
@@ -42,11 +43,13 @@ const alish = {
 </td>
 <td width="45%" valign="top">
 
-🎓 &nbsp;**Self-taught** across web, desktop & systems programming
+🎓 &nbsp;**Self-taught** across web, desktop, mobile & systems programming
 
 🤖 &nbsp;**AI-assisted** — I build fast, then learn by taking the output apart
 
 📅 &nbsp;**Weekly shipper** — new stack, new problem, new lesson
+
+🚀 &nbsp;**Monthly builds** — bigger projects with real architecture
 
 🎯 &nbsp;**Goal** — reaching the highest of all the heavens
 
@@ -59,21 +62,60 @@ const alish = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,vite,html,css,nodejs,sqlite,cpp,git,github,vscode,linux&perline=12&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,vite,html,css,nodejs,flutter,dart,sqlite,cpp,git,github,vscode,linux&perline=14&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Web_Development-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Desktop_Software-00599C?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Mobile_Builds-239120?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobile_Apps-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Game_Dev-Raylib-8A2BE2?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 </div>
 
+<!-- ═══════════════════════════ MONTHLY PROJECTS ═══════════════════════════ -->
+## 🚀 Monthly Projects
+
+<p align="center"><i>Bigger builds with more planning, a proper architecture, and a month of work behind them.</i></p>
+
+<table>
+<tr>
+<td width="45%" valign="middle" align="center">
+
+<a href="https://github.com/AlishGoroglu0/Agno-Hesaplama-Uygulamasi">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AlishGoroglu0&repo=Agno-Hesaplama-Uygulamasi&theme=tokyonight&hide_border=true" width="100%" />
+</a>
+
+<br>
+
+<a href="https://alishgoroglu0.github.io/Agno-Hesaplama-Uygulamasi/"><img src="https://img.shields.io/badge/▶_Try_it_live-02569B?style=for-the-badge" /></a>
+
+</td>
+<td width="55%" valign="top">
+
+### 🎓 AGNO Hesaplama Uygulaması
+
+A GPA (AGNO) calculator for Turkish university students, originally planned as a mobile app and released as open source.
+
+- 🏫 University-based grading settings
+- 📚 Semesters and courses with credits and letter grades
+- 🧮 Semester and cumulative average calculation
+- 🔮 "What if" scenario mode to plan target grades
+- 💾 Data saved locally on the device
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Built in](https://img.shields.io/badge/Built_in-~1_month-302b63?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Works,_not_finished-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
+
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🧪 Weekly Practice Projects
 
-<p align="center"><i>One small project every week — a new tool, a new language, a new lesson.</i></p>
+<p align="center"><i>One small project every week — a new tool, a new language, a new lesson. Quick experiments, so expect some bugs.</i></p>
 
 <div align="center">
 
@@ -104,6 +146,10 @@ const alish = {
 <!-- ═══════════════════════════ LIVE DEMOS ═══════════════════════════ -->
 ## 🔗 Live Demos
 
+**Monthly**
+- 🎓 **AGNO Calculator** (Flutter → Web) → https://alishgoroglu0.github.io/Agno-Hesaplama-Uygulamasi/
+
+**Weekly**
 - 🖊️ **Todo App** → https://alishgoroglu0.github.io/todo-app/
 - 🎮 **Raylib Game** (C++ → WebAssembly) → https://alishgoroglu0.github.io/RayLib-Game/
 - 🔥 **Hell Girl Fan Page** → https://alishgoroglu0.github.io/Hell-Girl-Fan-Page/
