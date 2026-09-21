@@ -22,7 +22,7 @@
 - 🎓 Self-taught developer, currently exploring web, desktop and systems programming
 - 🤖 I pair with AI tools to build faster and learn by dissecting the code they produce
 - 📅 I ship a small practice project most weeks — new stack, new problem, new lesson
-- 🚀 Currently building a Systemd-controlling terminal application
+
 
 <br>
 
@@ -63,14 +63,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlishGoroglu0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="420" />
-</p>
-
-<br>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlishGoroglu0&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <br>
