@@ -101,6 +101,13 @@ const alish = {
 
 </div>
 
+<!-- ═══════════════════════════ LIVE DEMOS ═══════════════════════════ -->
+## 🔗 Live Demos
+
+- 🖊️ **Todo App** → https://alishgoroglu0.github.io/todo-app/
+- 🎮 **Raylib Game** (C++ → WebAssembly) → https://alishgoroglu0.github.io/RayLib-Game/
+- 🔥 **Hell Girl Fan Page** → https://alishgoroglu0.github.io/Hell-Girl-Fan-Page/
+
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Analytics
 
